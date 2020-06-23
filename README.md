@@ -1,0 +1,2 @@
+# globalnetworking
+global web
